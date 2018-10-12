@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80ab487e-9458-4fa3-bf6d-662597e98625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LitZn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompPrice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,24 +25,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="253" />
+          <entry key="java" value="640" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="253" />
+          <entry key="JAVA" value="640" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -60,11 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LitZn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CompPrice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -86,6 +94,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/LitLicz.java" />
         <option value="$PROJECT_DIR$/src/LitZn.java" />
+        <option value="$PROJECT_DIR$/src/CompPrice.java" />
       </list>
     </option>
   </component>
@@ -133,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539323413273" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539323927658" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +156,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LitZn">
+  <component name="RunManager" selected="Application.CompPrice">
+    <configuration name="CompPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompPrice" />
+      <module name="Java_8_Podstawy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LitLicz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LitLicz" />
       <module name="Java_8_Podstawy" />
@@ -176,9 +192,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.LitLicz" />
       <item itemvalue="Application.LitZn" />
+      <item itemvalue="Application.CompPrice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompPrice" />
         <item itemvalue="Application.LitZn" />
         <item itemvalue="Application.LitLicz" />
         <item itemvalue="Application.Main" />
@@ -197,7 +215,7 @@
       <updated>1539174709988</updated>
       <workItem from="1539174712089" duration="1036000" />
       <workItem from="1539189562235" duration="394000" />
-      <workItem from="1539323095151" duration="242000" />
+      <workItem from="1539323095151" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="Literały liczbowe">
       <created>1539175653006</created>
@@ -210,7 +228,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1672000" />
+    <option name="totallyTimeSpent" value="2152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="81" width="1100" height="999" extended-state="0" />
@@ -291,8 +309,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LitZn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
